@@ -1,4 +1,3 @@
-# Supervised-machine-learning
 Theory:
 Linear Regression in Python with Scikit-Learn
 
